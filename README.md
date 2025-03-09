@@ -1,4 +1,4 @@
 # cpp-programs
 This is my first Git repository.
 <br>
-Author - Jitendra Ahirwar
+Author - Jitendra Ahirwar (student)
