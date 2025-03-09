@@ -1,3 +1,3 @@
 # cpp-programs
-This is my first Git repository
+This is my first Git repository.
 Author - Jitendra Ahirwar
